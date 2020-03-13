@@ -1,15 +1,32 @@
+.navbar-inner {
+  background:transparent;
+}
+
 .section-2 {
   background-image: url(golf-ball-1867079_1920.jpg);
-  background-position: center;
+  background-position: bottom;
   background-size: 100%;
   background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   box-shadow: inset 0 0 1000px 1000px rgba(26, 26, 26, 0.5);
-  height: 50vh;
+  height: 100%;
   background-attachment: fixed;
   background-size: cover;
+  margin-top: -100px;
 
+}
+
+.s2-row {
+  margin-top:100px
+}
+
+.intro-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .section-3 {
@@ -22,4 +39,8 @@
 
 .PA {
   text-shadow: 2px 2px #1a1919;
+}
+
+.video-round {
+  border-radius: 50%;
 }
