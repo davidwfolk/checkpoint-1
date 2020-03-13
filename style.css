@@ -56,3 +56,22 @@
 .card-body {
   margin-bottom: -5vh;
 }
+
+.line-break {
+  height: 1.5vh;
+  width: 100%;
+  background-color: rgb(26, 26, 26);
+}
+
+.section-5 {
+  background-image: url(Falcon-Crest-Golf-1500x630.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  box-shadow: inset 0 0 1000px 1000px rgba(26, 26, 26, 0.8);
+  height: 100%;
+  background-attachment: scroll;
+  background-size: cover;
+}
