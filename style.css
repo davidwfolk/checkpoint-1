@@ -1,0 +1,25 @@
+.section-2 {
+  background-image: url(golf-ball-1867079_1920.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  box-shadow: inset 0 0 1000px 1000px rgba(26, 26, 26, 0.5);
+  height: 50vh;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.section-3 {
+  background-color: rgba(26, 26, 26, 0.5);
+}
+
+.d-font {
+  font-family: 'Anton', sans-serif;
+}
+
+.PA {
+  text-shadow: 2px 2px #1a1919;
+}
