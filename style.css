@@ -2,6 +2,8 @@
   background:transparent;
 }
 
+
+
 .section-2 {
   background-image: url(golf-ball-1867079_1920.jpg);
   background-position: bottom;
@@ -31,6 +33,7 @@
 
 .section-3 {
   background-color: rgba(26, 26, 26, 0.5);
+  height: 100%
 }
 
 .d-font {
@@ -43,4 +46,13 @@
 
 .video-round {
   border-radius: 50%;
+}
+
+.spacer {
+  height: 5vh;
+  width: 100%;
+}
+
+.card-body {
+  margin-bottom: -5vh;
 }
