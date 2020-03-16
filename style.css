@@ -35,6 +35,16 @@
 .section-3 {
   background-color: rgba(26, 26, 26, 0.5);
   height: 100%
+
+}
+
+.section-3-col {
+  margin-bottom: -15vh;
+}
+.section-3b-bg {
+
+  height: 30vh;
+  background-color: rgb(48, 48, 48);
 }
 
 .d-font {
